@@ -1,0 +1,48 @@
+body{
+  background-image: url(../images/flowers.png);
+  color: #37454C;
+}
+h2{
+margin-top: 1em;
+margin-bottom: .3em;
+font-size: 1.25em;
+}
+.body_container{
+  width: 55%;
+  margin: 0 auto;
+}
+
+
+.header{
+}
+
+.site_name{
+  text-align: center;
+  font-size: 5.5em;
+}
+
+.nav{
+  text-align: center;
+}
+
+li.main_nav{
+  display: inline;
+  font-size: 1.3em;
+  margin: 10px;
+}
+
+.body_content{
+  background-color: #FFF;
+  margin-top: 1.3em;
+  padding: .6em;
+  border: 1px;
+  border-style: solid;
+  border-color: #90B5C9;
+  border-radius: .5em;
+}
+
+.footer{
+  margin-top: .6em;
+  padding: .6em;
+  text-align: right;
+}

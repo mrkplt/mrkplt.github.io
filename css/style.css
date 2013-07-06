@@ -1,6 +1,7 @@
 body{
   background-image: url(../images/flowers.png);
   color: #37454C;
+  /*sepia background: ece7e0*/
 }
 h2{
 margin-top: 1em;
@@ -16,6 +17,11 @@ p{
   padding-bottom: .6em;
 
 }
+a:hover{color: #7998A8;}
+a:link{color: #7998A8;}
+a:active{color: #857F77;}
+a:visited{color: #857F77;}
+
 .body_container{
   width: 46em;
   margin: 0 auto;

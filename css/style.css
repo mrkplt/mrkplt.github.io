@@ -23,7 +23,7 @@ a:active{color: #857F77;}
 a:visited{color: #857F77;}
 
 .body_container{
-  width: 46em;
+  max-width: 46em;
   margin: 0 auto;
 }
 .header{

@@ -32,7 +32,9 @@ a:visited{color: #857F77;}
 
 .site_name{
   text-align: center;
-  font-family: 'Simonetta', cursive;
+  /*font-weight: bold;*/
+  font-style: italic;
+  font-family: 'Alegreya', serif;
   font-size: 5.5em;
 }
 
@@ -43,7 +45,7 @@ a:visited{color: #857F77;}
 li.main_nav{
   display: inline;
   font-size: 1.3em;
-  font-family: 'Simonetta', cursive;
+  font-family: 'Alegreya', serif;
   margin: .6em;
 }
 

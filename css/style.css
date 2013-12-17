@@ -48,7 +48,17 @@ li.main_nav{
   font-family: 'Alegreya', serif;
   margin: .6em;
 }
-
+ul.gear_sale{
+  font-family: 'Habibi', serif;
+  font-size: 1em;
+  line-height: 1.8em;
+  padding-top: .6em;
+  padding-bottom: .6em;
+}
+li.gear_sale{
+  list-style-type: square;
+  margin-left: 1.4em;
+}
 .body_content{
   background-color: #FFF;
   margin-top: 1.3em;

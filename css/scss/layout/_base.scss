@@ -1,0 +1,15 @@
+.wrapper {
+  margin: 0 auto;
+  padding: 0 10px;
+  max-width: 600px;
+  @include box-sizing;
+
+  @include respond-to(640) {
+    padding: 0 20px;
+  }
+}
+
+[class*="ss-list"] {
+  margin-left: 0;
+  list-style: none;
+}

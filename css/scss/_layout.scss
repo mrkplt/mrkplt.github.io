@@ -1,0 +1,37 @@
+//SCSS START
+
+//Base
+//this file contains the styles
+//for all the top level containers
+//and strucutre for the application
+@import 'layout/base';
+
+
+//Header
+//this file contains the styles
+//for the header
+@import 'layout/header';
+
+
+//Navigation
+//this file contains the styles
+//for the main header nav
+@import 'layout/navigation';
+
+
+//Content
+//this file contains the styles
+//for the main content area
+@import 'layout/content';
+
+
+//Footer
+//this file contains the styles
+//for the main footer
+@import 'layout/footer';
+
+
+//Grid
+//this file contains the styles
+//for the grid helper
+@import 'layout/grid';

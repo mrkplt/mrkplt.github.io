@@ -1,0 +1,67 @@
+==================================================================
+https://keybase.io/mrkplt
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://mrkplt.com
+  * I am mrkplt (https://keybase.io/mrkplt) on keybase.
+  * I have a public key with fingerprint B63F B8E1 BE81 FBAF E770  6DB7 2D7F 0EBC 0074 AC2E
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "b63fb8e1be81fbafe7706db72d7f0ebc0074ac2e",
+            "host": "keybase.io",
+            "key_id": "2d7f0ebc0074ac2e",
+            "kid": "01012a3956c2796b8c3d8bc98ae220636588bf4f38f1123e8b8cd64551f04b904f7b0a",
+            "uid": "66d1f8ff6388d71141d44a2505193b19",
+            "username": "mrkplt"
+        },
+        "service": {
+            "hostname": "mrkplt.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1433441917,
+    "expire_in": 157680000,
+    "prev": "0a43b8685bedca05f2171ddd96e80a259dd63d1de0807e6e3921bc38f3784077",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.8
+Comment: https://keybase.io/crypto
+
+yMIWAnicbVJbSBVBGN6jJXYq7UYPdsE2Cgqxmb3N7KF8CRR9qKB6MKvDzs6sbadz
+9rhn9VRqRfXSFYosKiUxUYzQIrJEi4wyMIiwqNPFHiQIiwoDCxSlWamHoHkZ5vu/
+7/vn//gfzU4XgoEJ86GQnKjvCzztXVspbI2fr60WiUP3iaFqMcKmLsuOlTM37tox
+TwyJRJMtghkkDEOLGBZDCGiUIIkiCzBiAoAUw5SYmCfuchK+gtsQI8HybYdj/BG2
+KUf/w49MFQAEUDJkXdVMCekawaZMMTF1bDBJApqsqRgTS7FkbEEoyQxzBtUUVYUW
+UIgOFAsRYHC7yik7TaPQwpalyRhTBKECqaIYkgpUqMsE6j4xwdyYEWWcHXUj8T2e
+WJsncqzKNpkfgD/HP/V804lyXdx1PMd09nB8l+fFQ77M2xf3eUlGwn8cwsSOUR4h
+F1QxN2E7MTEEOdP0bN8SKrKsKFCHKE9ke+O2y8K2z1CRhgE/fhtW5ediKDLBGlYJ
+o6YBVEuCCFJKdY1hwAfSKdVkCikDGCCmMVmXIDF5SjLCCkBI9GeqiDliSOXfNMq5
+ZcIujxlepcvE2ocPtk8TAkEhY3qavwRCcMacv6tx+nGm0HJu58hYo9cj3huqGB9M
+dFUua2jpLz2EaljqtVVcEU4VPh+dz5rrg911+q018ewlXtZg2frc4a6O3YVnBlpv
+j19PqygKunXRR/ad+ds2ts9zVzetKAgu39zQm/O+YPUi73XWwdEXl1ILyl4F1nz4
+euH+O/EZEeoHB9KTR0q+fcp80nrqRtHCzrvprD9SvK49nNySLP41q+1ic8+O7K7y
+yYNLT/bNeTm99/OB7zOT3bUjQaI2vVi8ahPolwNvB35kXKnpfF/ybG7n5b0r14cm
+r0V3bF7b+MC7OnromNKeOlrThspyrx0+fvPszKEO+vMLHhvO+Xj/xhshFd1yc39p
+5ET1ht8+Pyr4
+=DUho
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mrkplt
+
+==================================================================

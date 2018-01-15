@@ -47,19 +47,19 @@ h1,
   text-transform: none;
   line-height: 1.2em;
   color: #222;
-  font-family: "Droid Serif", serif;
+  font-family: "arial", sans-serif;
   font-weight: normal;
   font-size: 2.5em; }
 
 h2,
 .heading2 {
   margin: 0 0 0.58824em;
-  text-transform: none;
+  text-transform: uppercase;
   line-height: 1.17647em;
   color: #222;
-  font-family: "Droid Serif", serif;
+  font-family: "arial", sans-serif;
   font-weight: normal;
-  font-size: 2.125em; }
+  font-size: 1.5em; }
 
 h3,
 .heading3 {
@@ -67,7 +67,7 @@ h3,
   text-transform: none;
   line-height: 1.2em;
   color: #222;
-  font-family: "Droid Serif", serif;
+  font-family: "arial", sans-serif;
   font-weight: normal;
   font-size: 1.25em; }
 
